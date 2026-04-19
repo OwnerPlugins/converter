@@ -1,4 +1,7 @@
-# 🔗 Converter – Link Converter for Enigma2 TV Lists
+<h1 align="center">🔗 Converter – Link Converter for Enigma2 TV Lists</h1>
+
+![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
+[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](Maintainers.md#maintainers "Donate")
 
 **Converter** is a tool for generating various TV/radio stream lists for Enigma2 boxes.
 
